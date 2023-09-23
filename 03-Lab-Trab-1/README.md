@@ -6,6 +6,10 @@ Objetivo: compreender como os servidores DNS e WEB se comunicam com seus serviç
 
 Carregar o laboratório: 
 
+![](lab_trab_1.png)
+
+[lab_trab_1.tar.gz](lab_trab_1.tar.gz)
+
 **Passo 2**
 
 Subdivida o bloco de endereço IP entre LAN e DMZ: 
