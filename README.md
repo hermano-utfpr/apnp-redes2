@@ -14,6 +14,12 @@ Se houver interesse em praticar os laboratórios, sugiro baixar o **Linux** que 
 
 Além disso, neste respositório disponibilizei **laboratórios** adicionais que podem ser úteis para fixação de conteúdo. Alguns laboratórios, inclusive, foram utilizados em avaliações. Portanto, sintam-se desafiados(as) a resolvê-los!
 
+*Em Redes 1 aprendemos desde o básico sobre os Protocolos da Internet, Endereçamento e Roteamento IP até Tradução de Endereços com NAT.
+
+Agora em Redes 2 prosseguiremos com DNS, Web, E-mails até a configuração de um Firewall com IPTables.
+
+Para prosseguir em Redes 2, favor buscar informações sobre o LiveLinux em: [apnp-redes1](https://github.com/hermano-utfpr/apnp-redes1/).*
+
 Se eu puder e souber como ajudar, é só contatar! Bons estudos!
 
 Prof. Hermano
