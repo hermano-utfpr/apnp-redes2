@@ -291,7 +291,7 @@ Exemplos:
 
 ```
 $ telnet mail.linux.com 110
-  USER torvalds
+  USER fulano
   PASS abc123
   LIST
   RETR 3
