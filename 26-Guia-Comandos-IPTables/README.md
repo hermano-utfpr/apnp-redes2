@@ -138,10 +138,10 @@ Exemplo:
 
 Aceitar qualquer protocolo desde que esteja relacionado na tabela de estados:
 
-`# iptables -A FORWARD -p all -m state --state ESTABLISHED,RELATED -j ACCEPT`
-
-`# iptables -A FORWARD -p icmp -m state --state NEW -s 10.0.0.2 -d 10.0.1.111 -j ACCEPT`
-
-`# iptables -A FORWARD -p tcp --dport 22 --syn -m state --state NEW -s 10.0.0.2 -d 10.0.1.111 -j ACCEPT`
+```
+# iptables -A FORWARD -p all -m state --state ESTABLISHED,RELATED -j ACCEPT
+# iptables -A FORWARD -p icmp -m state --state NEW -s 10.0.0.2 -d 10.0.1.111 -j ACCEPT
+# iptables -A FORWARD -p tcp --dport 22 --syn -m state --state NEW -s 10.0.0.2 -d 10.0.1.111 -j ACCEPT
+```
 
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
