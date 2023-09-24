@@ -62,7 +62,7 @@ ou
 
 ftp://ftp.site.com.br/imagens/
 
-ftp://fulano:abc123@200.134.18.127
+ftp://fulano:abc123@192.168.0.100
 
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
 
