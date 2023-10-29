@@ -1,6 +1,6 @@
 # Atividades Pedagógicas Não Presenciais - Redes 2
 
-Este projeto hospeda as Atividades Pedagógicas Não Presenciais (APNP) da disciplina de  **Redes 2**. Conteúdo remoto que foi utilizado em período pandêmico - ano 2020 - Curso de Tecnologia em Sistemas para Internet - UTFPR - Campus Guarapuava.
+Este repositório hospeda as Atividades Pedagógicas Não Presenciais (APNP) da disciplina de  **Redes 2**. Conteúdo remoto que foi utilizado em período pandêmico - ano 2020 - Curso de Tecnologia em Sistemas para Internet - UTFPR - Campus Guarapuava.
 
 Caros(as) alunos(as), neste repositório disponibilizei um material que pode ser útil para o aprendizado em **Redes de Computadores**, segue uma sugestão de organização dos estudos:
 
@@ -38,4 +38,12 @@ Conteúdo:
 Se eu puder e souber como ajudar, é só contatar! Bons estudos!
 
 Prof. Hermano
+
+* * *
+
+Se este conteúdo foi útil de alguma forma, que acha de pagar-me um café? Obrigado :)
+
+Pix: c85aa557-fc19-4768-9d1e-478ba7ea5b08
+
+![](pix.png)
 
