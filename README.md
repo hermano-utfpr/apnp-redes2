@@ -34,6 +34,16 @@ Conteúdo:
 - Firewall (iptables) 
 
 * * * 
+
 Se eu puder e souber como ajudar, é só contatar! Bons estudos!
 
 Prof. Hermano
+
+* * * 
+
+Se este projeto foi útil de alguma maneira. Que acha de pagar-me um café?! Obrigado :)
+
+Pix:
+
+![](pix.jpg)
+
